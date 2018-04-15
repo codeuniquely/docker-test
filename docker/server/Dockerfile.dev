@@ -1,0 +1,6 @@
+FROM nginx
+
+ADD /config/nginx/nginx.dev.conf /etc/nginx/nginx.conf
+
+# expose server internal port 80 to the outside world
+EXPOSE 80
