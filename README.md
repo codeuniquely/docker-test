@@ -1,6 +1,4 @@
------------------------------------------------------
 # A React App - Todo List example
------------------------------------------------------
 
 ## Requirements
 - Docker Compose
@@ -29,4 +27,4 @@ yarn dev:up
 ```
 
 WebSite, visit:
-`[localhost](http://localhost:8000)`
+[localhost](http://localhost:8000)
