@@ -27,4 +27,4 @@ yarn dev:up
 ```
 
 WebSite, visit:
-[localhost](http://localhost:8000)
+[localhost:8000](http://localhost:8000)
