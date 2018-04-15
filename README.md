@@ -26,5 +26,15 @@ yarn dev:install
 yarn dev:up
 ```
 
-WebSite, visit:
+and then visit the WebSite:
 [localhost:8000](http://localhost:8000)
+
+3. Stopping the Project
+```
+yarn dev:down
+```
+
+4. Installing ther servers (clean down)
+```
+yarn dev:uninstall
+```
